@@ -1,0 +1,32 @@
+html, body {
+    /*font-size: 40px;*/
+    position:fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto!important; padding: 0!important;
+    width:100%!important; /* take full browser width */
+    height:auto!important; /* take full browser height*/
+    }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding-top: 10%;
+}
+
+.newfont {
+    height: 50px;
+    width: 180px;
+    
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -80px;
+}
+
+shop-logo a { display: inline-block;}
